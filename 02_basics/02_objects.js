@@ -23,4 +23,4 @@ const onlyValuesArr = Object.values(newObj)
 
 const entriesObj = Object.entries(newObj)
 
-console.log(entriesObj)
+// console.log(entriesObj)
