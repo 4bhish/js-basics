@@ -29,7 +29,7 @@ function addtwonums(a,b){
     console.log(a + b)
 }
 
-addTwoNums(3,7)
+// addTwoNums(3,7)
 
 const addTwoNums = function addtwoNums(a,b){
     console.log(a+b)
